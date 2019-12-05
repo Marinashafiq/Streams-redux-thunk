@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My new stream",
+      "description": "What an awesome stream Marina !",
+      "id": 1
+    },
+    {
+      "title": "Test",
+      "description": "Test Streams Descriptions",
+      "id": 2
+    },
+    {
+      "title": "The Stream EDIIT Again",
+      "description": "Stream is going to start from here Again  EDIIT",
+      "userId": "103534707660078268089",
+      "id": 4
+    },
+    {
+      "title": "New Stream is created ",
+      "description": "this is our new stream we hope you like it",
+      "userId": "103534707660078268089",
+      "id": 5
+    }
+  ]
+}
